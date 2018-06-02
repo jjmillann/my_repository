@@ -1,0 +1,7 @@
+
+Indicadores Leds del Módem:
+-Power: Encendido y fijo.
+-DSL: Encendido y Fijo (Se apaga cuando se cae la conexión, luego comienza a parpadear).
+-Internet: Apagado.
+-Ethernet: Encendido y parpadeando.
+-USB: Apagado.
